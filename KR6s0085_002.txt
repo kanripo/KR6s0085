@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:51.517798
+#+DATE: 2015-08-31 00:08:53.564694
 #+TITLE: 眾經目錄
 #+PROPERTY: CBETA_ID T55n2146
 #+PROPERTY: ID KR6s0085
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2146
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6s0085_T_002-0123b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 眾經目錄卷第二¶
+眾經目錄卷第二¶
 ¶
 隋沙門法經等撰¶
 
-4眾經別生
-:PROPERTIES:
-:head: 眾經別生四
-:END:
-¶
+眾經別生四¶
 
 　合二百二十一部二百六十三卷¶
 
@@ -288,11 +283,7 @@
 右六十二經。並是諸經所出。既未見本。且¶附斯錄。¶
 前二百二十一經。並是後人隨自意好。於大¶本內。抄出別行。或持偈句。便為卷部。緣此¶趣末歲廣。妖濫日繁。今宜攝入以敦根本。¶
 
-5眾經疑惑
-:PROPERTIES:
-:head: 眾經疑惑五
-:END:
-
+眾經疑惑五
 
 合二十部二十九卷¶
 
@@ -321,11 +312,7 @@
 <pb:KR6s0085_T_002-0126c>¶
 前二十一經。多以題注參差眾錄。文理復¶雜。真偽未分。事須更詳。且附疑錄。¶
 
-6眾經偽妄
-:PROPERTIES:
-:head: 眾經偽妄六
-:END:
-
+眾經偽妄六
 
 合八十部二百一十七卷¶
 
