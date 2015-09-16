@@ -1,22 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:51.669380
+#+DATE: 2015-08-31 00:08:54.083850
 #+TITLE: 眾經目錄
 #+PROPERTY: CBETA_ID T55n2146
 #+PROPERTY: ID KR6s0085
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2146
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6s0085_T_007-0148c> ¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 眾經總錄卷第七¶
+眾經總錄卷第七¶
 ¶
 隋沙門法經等撰¶
 
-上皇帝表
 大興善寺翻經眾沙門法經等敬白皇帝大檀¶
 越。去五月十日。太常卿牛弘奉勅須撰眾經¶
 目錄。經等謹即修撰。總計眾經合有二千二¶
@@ -66,14 +64,9 @@
 蒙賴。而況經等。夫何復論所恨識慧無長猥¶
 參嘉運。不能盡獲三國經本及遺文逸法。造¶
 次修撰多有罔昧。進思退省慚慨良深。敬白¶
-開皇十四年七月十四日大興善寺翻經眾¶
-沙門法經等。¶
+開皇十四年七月十四日大興善寺翻經眾沙門法經等。¶
 
-眾經總錄
-:PROPERTIES:
-:head: 眾經總錄
-:END:
-¶
+眾經總錄¶
 
   
   * 大乘修多羅藏錄第一(六分)　合七百八十四
