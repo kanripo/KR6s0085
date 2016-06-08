@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:52.490840
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:37
 #+TITLE: 眾經目錄
 #+PROPERTY: CBETA_ID T55n2146
 #+PROPERTY: ID KR6s0085
@@ -67,7 +67,7 @@
 ¶
 。¶
 
-眾經總錄¶
+* 眾經總錄¶
 
   
   * 大乘修多羅藏錄第一(六分)　合七百八十四
