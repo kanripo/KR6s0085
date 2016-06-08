@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:51.582696
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:37
 #+TITLE: 眾經目錄
 #+PROPERTY: CBETA_ID T55n2146
 #+PROPERTY: ID KR6s0085
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2146
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0085_T_004-0133b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 眾經目錄卷第四¶
+眾經目錄卷第四¶
 ¶
 隋沙門法經等撰¶
 
-4眾經別生
-:PROPERTIES:
-:head: 別生四
-:END:
-
+** 別生四
 
 合三百十一部　三百四十六卷¶
 
@@ -393,11 +388,7 @@
   * 明識諦觀經一卷¶
 右六十一經。是諸經所出。既未見經本。且¶附前三百四十二經。並是後人隨自意好。¶於大本內。抄出別行。或持偈句。便為卷部。¶緣此趣末歲廣妖濫日繁。今宜攝入。以敦¶根本。¶
 
-5眾經疑惑
-:PROPERTIES:
-:head: 眾經疑惑五
-:END:
-
+** 眾經疑惑五
 
 合二十九部三十一卷¶
 
@@ -434,11 +425,7 @@
   * 四身經一卷¶
 右二十九經。多以題注參差。眾錄致惑。文¶理復雜。真偽未分。事須更計。且附疑錄。¶
 
-6眾經偽妄
-:PROPERTIES:
-:head: 眾經偽妄六
-:END:
-
+** 眾經偽妄六
 
 合五十三部九十三卷¶
 
